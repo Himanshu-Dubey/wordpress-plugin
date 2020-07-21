@@ -1,0 +1,8 @@
+body{background: #f1f1f1!important;}
+#wpcontent, #wpfooter {margin-left:140px!important;}
+.form-class{margin-top:5%;}
+.form-check-input{margin-top: .3rem!important;
+    margin-left: -1.25rem!important;}
+.form-check-inline .form-check-input {margin-top: 0!important;
+    margin-right: .3125rem!important;
+    margin-left: 0!important;}
